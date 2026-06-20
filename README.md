@@ -106,13 +106,7 @@ Management Reporting
 Executive summary KPIs
 Investigation tracking
 Fraud intelligence reporting
-📂 Project Structure
-Samuel Trading Company PowerBI Project
-│
-├── AML Fraud Intelligence Dashboard
-├── Entity Investigation Dashboard
-├── Mule Account Investigation Center
-└── Supporting Data Model & DAX Measures
+
 🚀 Skills Demonstrated
 
 This project demonstrates proficiency in:
